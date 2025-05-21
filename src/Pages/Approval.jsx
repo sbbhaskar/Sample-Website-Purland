@@ -1,13 +1,13 @@
 import React from 'react'; // Added this import
-import CustomDeclaration from '../assets/customdeclaration.png' // Imported the image
+import Customdeclaration from '../assets/customdeclaration.png' // Imported the image
 
 const Approvals = () => {
   return (
     <div>
       <div className="pt-24 pb-16 px-6 md:px-20 lg:px-32 bg-white text-gray-800">
-        {/* Corrected line: Use the imported variable 'CustomDeclaration' */}
+        {/* Corrected line: Use the imported variable 'customdeclaration' */}
         <img
-          src={CustomDeclaration} // Changed from "./src/assets/CustomDeclaration.png" to the imported variable
+          src={Customdeclaration} // Changed from "./src/assets/customdeclaration.png" to the imported variable
           alt="Custom and Declaration"
           className="w-full h-[250px] object-cover rounded-xl shadow-md"
         /><br></br>
@@ -70,7 +70,7 @@ export default Approvals;
 
 // <div className="pt-24 pb-16 px-6 md:px-20 lg:px-32 bg-white text-gray-800">
 //       <img 
-//   src="./src/assets/CustomDeclaration.png"
+//   src="./src/assets/customdeclaration.png"
 //   alt="Custom and Declaration"
 //   className="w-full h-[250px] object-cover rounded-xl shadow-md"
 // /><br></br>
