@@ -7,7 +7,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 import 'swiper/css/effect-creative';
 import slideone from '../assets/slideone.png';
-import SlideTwo from '../assets/SlideTwo.png';
+import slidetwo from '../assets/slidetwo.png';
 
 const Slider = () => {
   const navigate = useNavigate();
@@ -19,7 +19,7 @@ const Slider = () => {
       buttonLabel: 'Explore Services',
     },
     {
-      image: SlideTwo,
+      image: slidetwo,
       title: 'Welcome to Purland Warehouse',
       buttonLabel: 'Explore Services',
     },
