@@ -1,20 +1,37 @@
 import React from 'react';
+import facilitiesDistributionImg from '../assets/facilities-distribution.png';
+import oceanFreightImg from '../assets/oceanfreight.png';
+import multiModalFreightImg from '../assets/multimodalfreight.png';
 
 const FreightCards = () => {
+  // const cards = [
+  //   {
+  //     title: 'Air Freight',
+  //     img: '/src/assets/facilities-distribution.png',
+  //   },
+  //   {
+  //     title: 'Ocean Freight',
+  //     img: '/src/assets/oceanfreight.png',
+  //   },
+  //   {
+  //     title: 'Multi Modal Freight',
+  //     img: '/src/assets/multimodalfreight.png',
+  //   },
+  // ];
   const cards = [
-    {
-      title: 'Air Freight',
-      img: '/src/assets/facilities-distribution.png',
-    },
-    {
-      title: 'Ocean Freight',
-      img: '/src/assets/ocean freight.png',
-    },
-    {
-      title: 'Multi Modal Freight',
-      img: '/src/assets/multimodalfreight.png',
-    },
-  ];
+  {
+    title: 'Air Freight',
+    img: facilitiesDistributionImg, // Use the imported variable
+  },
+  {
+    title: 'Ocean Freight',
+    img: oceanFreightImg, // Use the imported variable
+  },
+  {
+    title: 'Multi Modal Freight',
+    img: multiModalFreightImg, // Use the imported variable
+  },
+];
 
   return (
     <div className="mb-0">
