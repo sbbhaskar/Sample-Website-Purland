@@ -1,6 +1,6 @@
 // Services.jsx
 import React, { useState, useEffect } from 'react';
-import CustomDeclaration from '../assets/customdeclaration.png';
+// import CustomDeclaration from '../assets/customdeclaration.png';
 import InsuranceModal from '../Components/InsuranceModal'; // import the modal
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination, Navigation, EffectCreative } from 'swiper/modules';

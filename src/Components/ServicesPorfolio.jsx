@@ -4,7 +4,7 @@ import HandingStorage from '../assets/handing-storage.png';
 import Distribution from '../assets/facilities-distribution.png';
 import OtherServices from '../assets/add-hoc.jpeg';
 import AmbientStorage from '../assets/AmbientStorage.png';
-import Customs from '../assets/CustomDeclaration.png';
+import Customs from '../assets/declaration.png';
 import shipVideo from '../assets/ship.mp4';
 
 const ServicesPortfolio = () => {
