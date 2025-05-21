@@ -6,7 +6,7 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 import 'swiper/css/effect-creative';
-import SlideOne from '../assets/SlideOne.png';
+import slideone from '../assets/slideone.png';
 import SlideTwo from '../assets/SlideTwo.png';
 
 const Slider = () => {
@@ -14,7 +14,7 @@ const Slider = () => {
 
   const slides = [
     {
-      image: SlideOne,
+      image: slideone,
       title: 'Welcome to Purland Logistics',
       buttonLabel: 'Explore Services',
     },
