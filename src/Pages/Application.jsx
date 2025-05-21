@@ -1,5 +1,4 @@
 import { useState } from "react";
-import emailjs from "emailjs-com";
 
 const Application = () => {
   const [formData, setFormData] = useState({
@@ -25,21 +24,7 @@ const Application = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-
-    emailjs.send(
-      "your_service_id",    // ✅ Replace with real values
-      "your_template_id",
-      formData,
-      "your_user_id"
-    ).then(
-      () => {
-        alert("Form sent successfully!");
-        setFormData({});
-      },
-      () => {
-        alert("Failed to send form. Please try again.");
-      }
-    );
+    alert("Form submitted."); // 🔔 Dummy submit for now
   };
 
   return (
