@@ -1,5 +1,5 @@
 import React from 'react'; // Added this import
-import CustomDeclaration from '../assets/customdeclaration.png'; // Imported the image
+import CustomDeclaration from '../assets/customdeclaration.png' // Imported the image
 
 const Approvals = () => {
   return (
