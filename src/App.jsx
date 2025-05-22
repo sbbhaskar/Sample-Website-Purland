@@ -9,11 +9,14 @@ import Approval from './Pages/Approval';
 import Home from './Pages/Home';
 import Security from './Pages/Security';
 import Services from './Pages/Services';
+import ScrollToTop from './Components/ScrollToTop';
 
 function App() {
   return (
     <div className="flex flex-col min-h-screen">
       <Navbar />
+
+      <ScrollToTop />
       <main className="flex-grow">
         <Routes>
           <Route path="/" element={<Home />} />
