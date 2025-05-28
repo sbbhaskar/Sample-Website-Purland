@@ -10,11 +10,7 @@ const InsuranceModal = ({ isOpen, onClose }) => {
       <div className="bg-white p-6 rounded-lg max-w-lg w-full shadow-xl relative">
         <h3 className="text-xl font-semibold mb-4 text-blue-700">Insurance Information</h3>
         <p className="text-gray-800 text-justify text-sm sm:text-base">
-          Generally, goods are not automatically insured by hauliers and warehouses.
-          Although warehouses and hauliers have their own policies, these are subject to cover under their trading terms and conditions,
-          these may not cover the full value of your goods. PHL recommends that customers insure their goods.
-          PHL can advise on the correct insurance required and arrange insurance through our dedicated brokers.
-          Alternatively, you may arrange cover through your own broker.
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet eveniet quis debitis, rem vitae eligendi corporis, veniam exercitationem, dignissimos voluptatem deserunt cum odit qui in commodi. Eius eaque at repellat, adipisci vitae eligendi eveniet officia qui architecto mollitia sapiente reprehenderit vero voluptas. Similique incidunt excepturi nam obcaecati, inventore autem. Doloribus assumenda sit facilis suscipit harum, eos, quibusdam voluptatum, vel consequatur quos cumque expedita a tenetur? Reiciendis iusto suscipit magnam nihil!
         </p>
         <button
           onClick={onClose}

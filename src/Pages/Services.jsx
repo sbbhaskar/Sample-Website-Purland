@@ -16,19 +16,19 @@ import FreightCards from '../Components/FreightCards';
 const slides = [
   {
     image: './images/machine1.png',
-    title: 'Efficient Machinery for Modern Logistics',
+    title: 'description here',
   },
-  {
-    image: './images/machine2.png',
-    title: 'Precision in Handling and Transport',
-  },
+  // {
+  //   image: './images/machine2.png',
+  //   title: 'description here',
+  // },
   {
     image: './images/machine3.png',
-    title: 'Advanced Storage Facilities',
+    title: 'description here',
   },
   {
     image: './images/slideone.png',
-    title: 'Streamlined Solutions by Purland House',
+    title: 'description here',
   },
 ];
 
@@ -133,10 +133,10 @@ const Services = () => {
           <div className="w-full md:w-5/1 text-gray-800 text-justify space-y-4">
             <h2 className="text-2xl font-bold text-blue-700">Handling & Storage</h2>
             <p>
-              PHL provides a dedicated team who offer a trusted transport and delivery service across all ports. We work with both full and part loads, which can be arranged from each of the ports. PHL prides ourselves when it comes to providing tailored solutions for all of your logistical requirements and work hard to cover all your customs clearance needs. Due to its expansive size, PHL can offer storage from relatively small to large quantities.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, praesentium. Tenetur nihil temporibus reiciendis voluptatum iure corporis sequi optio aliquam eaque totam excepturi voluptates dolor iste pariatur minima quasi, fuga animi nisi natus aliquid magnam commodi nemo fugiat neque. Dolorum aliquid dolores, repellendus maiores culpa quaerat sint ex dignissimos, distinctio exercitationem eum! Consequuntur vitae rem, odit aspernatur labore adipisci voluptatem iure eligendi inventore possimus rerum officiis hic distinctio numquam recusandae repudiandae provident, aliquid obcaecati!
             </p>
             <p>
-              We have a professional team that can complete EMCS movements for alcohol arriving into UK ports. PHL has invested in specialist HMRC approved software which enables accurate, compliant stock reporting with full traceability. You can have peace of mind as they are then delivered into bonded warehouse under our registered consignor status. With a focus on customer satisfaction, we make sure to go the extra mile, and we also have our movement guarantee if required. PHL ensures that clients' goods are kept safe and secure, however sufficient level of insurance is an important consideration with all types of stock. <button
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit voluptates incidunt id laudantium nostrum repellat. Eligendi at obcaecati perferendis, esse doloribus, voluptatibus dolore nostrum illum unde, quod recusandae. Molestias, vel omnis? Aliquid atque molestiae officia, eveniet, enim labore dolorem ducimus explicabo fugit repudiandae maxime laborum placeat molestias soluta fugiat unde minima similique. Dolorem illo pariatur velit laboriosam accusamus quia numquam. Perspiciatis ex debitis iste distinctio eum! Minus aperiam deleniti nulla voluptates, dolorem doloribus molestias ex doloremque ipsum. Dolor dolores accusamus fugiat excepturi at distinctio animi soluta ducimus, illo sequi voluptas maiores! Amet reiciendis explicabo aut excepturi, est quas ipsum. <button
     onClick={() => setModalOpen(true)}
     className="text-blue-600 font-semibold hover:underline ml-1"
   >
@@ -169,10 +169,10 @@ const Services = () => {
           <div className="w-full md:w-5/1 text-gray-800 text-justify space-y-4">
             <h2 className="text-2xl font-bold text-blue-700">Distribution</h2>
             <p>
-              PHL has a team of specialists that arranges imports & exports of goods between the UK, the mainland Europe and internationally. Our own fleet with professional drivers can provide efficient and safe delivery around the UK. We strive in adhering to key targets provided to us by our broad range of clients. Team members are experienced, knowledgeable and provide a competitive friendly personal service. They have at their disposal various types of equipment via a wide selection of routings to provide a choice of options dependent upon required timeframe and budgets.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus libero perspiciatis provident consequatur quibusdam repudiandae. Tempora repudiandae quisquam magni quis beatae facere, tenetur qui! Nemo magnam amet assumenda voluptates ad fuga laboriosam laudantium aperiam asperiores nobis reiciendis labore ab id illo vel cumque, ea facere. Magnam aspernatur ad unde odio, quidem, pariatur obcaecati ex repellat exercitationem suscipit esse. Perferendis necessitatibus qui provident voluptas eius sint rerum neque omnis. Molestias ab quisquam molestiae vel totam esse fugit facere deserunt consectetur cumque et officia, animi, corrupti natus. Debitis odio ipsa delectus blanditiis provident!
             </p>
             <p>
-              PHL is experienced in a combination of road and rail freight across mainland Europe, using trailers, and pallet wide containers, ensuring that customers’ multi modal requirements are met. We also provide economical European cross border road and sea freight services, delivering door to door full and partial loads. Shipping cargo by sea is the most cost-effective freight option to long-distance destinations. PHL has a team of experts that is dedicated to finding the right solution for your business. Over the years PHL has built trusted relationships with established and renowned shipping lines, providing PHL with a broad range of equipment, services, routes and destinations, available for both import and export.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora corrupti delectus non sunt magni harum asperiores, magnam nesciunt in aliquid laudantium perferendis voluptatibus! Nostrum dolorum quibusdam labore asperiores dolores iste veniam, dicta in non incidunt, magni aliquid, temporibus velit molestias corrupti fugiat voluptates iusto! Blanditiis aliquid fuga, ex, placeat quo deleniti corporis excepturi voluptas mollitia, ab unde cum quos ut laborum sunt quia atque maiores quas magni necessitatibus! Facilis minus id eos corrupti dolorum officiis quidem aliquid dicta ipsa. Ipsam itaque perferendis fugiat voluptates voluptatibus assumenda deleniti architecto aliquid voluptate culpa! Aliquam odio dolores aspernatur similique at doloribus odit iure, ipsum, nisi nostrum recusandae dolore iusto nobis consectetur eum delectus.
             </p>
           </div>
         </div>
@@ -186,13 +186,13 @@ const Services = () => {
   <div className="bg-white shadow-lg rounded-lg p-6 md:p-10 text-gray-800 text-justify">
     <h2 className="text-2xl font-bold text-blue-700 mb-4">Other Services</h2>
     <p className="mb-4">
-      Our value-added services include obtaining essential documentation required to export or import of various goods, subject to product and destination. Documents such as Certificates of Age, Certificates of Origin, Certificates of Free Sale, EUR 1, Certificates on Non-Manipulation are readily obtained as and when required.
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat nihil magnam earum saepe cupiditate consectetur sequi veniam vitae culpa suscipit! Illum quasi provident eius! Commodi nostrum, corporis numquam modi, architecto id veniam beatae eius, quidem a quod nobis reprehenderit harum ad accusamus quas fugiat earum!
     </p>
     <p className="mb-4">
-      PHL also offers clients use of an escrow facility, providing protection to both buyer and seller where required. Escrow is Free of Charge when our Logistics services are used. PHL will inspect and verify the stock and control the funds, we only release control over the funds & stock once both parties are in agreement and this has been confirmed.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat non iusto, fugiat commodi sed pariatur magnam dolorem laborum perferendis nulla, voluptate et necessitatibus dolores culpa quasi iure cum quibusdam voluptatum aperiam, aut modi. Aut laborum quo hic! Quaerat corrupti pariatur quibusdam ipsam, temporibus sed tenetur explicabo natus repudiandae enim numquam consequuntur eos fuga quod aliquam dolorem quae atque doloribus placeat!
     </p>
     <p className="mb-4">
-      Additionally, PHL offer a full rework facility, whether it be packing goods into gift boxes, application (using a state-of-the-art commercial labelling machine) and removal of UKDS (UK duty stamps) and any other stamps.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic maiores, soluta cumque eum inventore ipsum facilis libero velit nesciunt maxime repellat aperiam accusantium aut atque incidunt sint quae adipisci! Amet nostrum debitis unde.
     </p>
   </div>
 
@@ -200,14 +200,14 @@ const Services = () => {
   <div className="bg-white shadow-lg rounded-lg p-6 md:p-10 text-gray-800 text-justify">
     <h2 className="text-2xl font-bold text-blue-700 mb-4">Ambient Storage</h2>
     <p className="mb-4">
-      PHL provides all industry sectors with professional, cost-effective supply chain solutions, ensuring swift response and seamless movement of goods, to ensure that they are delivered in optimal condition. Products stored include, gifts, soft and energy drinks, alcohol, toys, we work closely with clients to develop a customised global logistic solution for all their ambient goods needs.
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque quasi expedita sed repellat quibusdam repellendus voluptatum nam quaerat quae ea dolor nemo commodi corporis, eaque rerum optio suscipit hic cupiditate, animi, molestias molestiae illum? Natus laudantium minima maxime odit iure nesciunt sint consequatur a totam dolor, suscipit delectus non quod amet voluptatem veritatis mollitia numquam qui?
     </p>
 
     <p className="mt-6">
-      📞 Tel: +44 (0)20 8310 7999
+      📞 Tel: Phone number here
       <br />
-      <a href="mailto:info@purlandhouse.com" className="text-blue-600 hover:underline">
-        📧 Email: info@purlandhouse.com
+      <a href="mailto:bhaskar.sb@outlook.com" className="text-blue-600 hover:underline">
+        📧 Email: bhaskar.sb@outlook.com
       </a>
     </p>
   </div>

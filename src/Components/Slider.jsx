@@ -15,12 +15,12 @@ const Slider = () => {
   const slides = [
     {
       image: slideone,
-      title: 'Welcome to Purland Logistics',
+      title: 'Code Trunk',
       buttonLabel: 'Explore Services',
     },
     {
       image: slidetwo,
-      title: 'Welcome to Purland Warehouse',
+      title: 'Code Trunk',
       buttonLabel: 'Explore Services',
     },
   ];

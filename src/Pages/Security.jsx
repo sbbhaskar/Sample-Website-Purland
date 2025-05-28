@@ -10,11 +10,11 @@ import SecurityImage2 from '../assets/Security1.png';
 
 const slides = [
   {
-    title: 'Advanced 24/7 Surveillance System',
+    title: 'description here',
     image: SecurityImage1,
   },
   {
-    title: 'Secure Storage You Can Trust',
+    title: 'description here',
     image: SecurityImage2,
   },
 ];
@@ -79,28 +79,27 @@ const Security = () => {
 
       {/* Page Content */}
       <h2 className="text-3xl md:text-4xl font-extrabold text-center text-gray-700 mb-8">
-        Our Commitment to Security
+        Our Commitment to excellence
       </h2>
 
       <div className="text-base md:text-lg leading-relaxed space-y-6 text-justify">
         <p>
-          At <span className="font-semibold">Purland House Ltd (PHL)</span>, the safety and security of our clients' goods is our highest priority. All warehouse facilities are safeguarded by advanced surveillance infrastructure, including high-definition CCTV systems and comprehensive alarm mechanisms, operating continuously — 24 hours a day, 365 days a year.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita magni nostrum similique praesentium consequuntur maxime eos quia, voluptatem sint molestiae delectus harum saepe, dolorum repellendus libero, ut provident quae assumenda? Necessitatibus assumenda distinctio sed, nisi dolorum libero quibusdam mollitia atque ipsum illo beatae saepe dolor quidem.
         </p>
 
         <p>
-          Our integrated monitoring solution comprises both internal and external surveillance cameras equipped with night vision capabilities, ensuring complete visibility across all areas of the premises. To reinforce this robust framework, live footage is actively monitored by <b>two independent, accredited security partners</b>, providing an added layer of scrutiny and operational integrity.
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non eligendi molestiae ullam aspernatur velit commodi, est mollitia eaque? Laborum, placeat natus nulla deleniti repellendus fugit assumenda, hic magni officiis nisi facere. Itaque dicta non laboriosam, accusantium tempora, beatae unde architecto ipsam vero ducimus eos sit sed mollitia voluptatibus dolorem doloribus!
         </p>
 
         <p>
-          This multi-tiered security strategy ensures full traceability, accountability, and peace of mind for traders entrusting their goods to PHL’s care — whether for short-term storage or long-term bonded warehousing.
-        </p>
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo, nobis est? Distinctio molestias amet ab vel ipsam? Delectus sed illo autem cupiditate, beatae voluptatibus aspernatur eum ex porro magnam.        </p>
 
         <p>
-          📞 Tel: +44 (0)20 8310 7999
+          📞 Tel: Phone number here
           <br />
           📧 Email:{" "}
-          <a href="mailto:info@purlandhouse.com" className="text-blue-600 hover:underline">
-            info@purlandhouse.com
+          <a href="mailto:bhaskar.sb@outlook.com" className="text-blue-600 hover:underline">
+            bhaskar.sb@outlook.com
           </a>
         </p>
       </div>

@@ -11,38 +11,38 @@ const About = () => {
       /><br></br>
 
       <h2 className="text-3xl md:text-4xl font-extrabold text-center text-gray-700 mb-8">
-        About Purland House Ltd
+        About Code Trunk LLP
       </h2>
 
       <div className="text-base md:text-lg leading-relaxed space-y-6 text-justify">
-        <p>
-          <span className="font-semibold">Purland House Ltd (PHL)</span>, established in 2008, is an HMRC excise-approved facility located in South East London. Positioned with excellent access to road, rail, and sea networks, PHL enjoys strategic proximity to the UK’s major southern ports — making it an ideal hub for streamlined logistics and international trade.
-        </p>
+          <p>
+            <span className="font-semibold">Code Trunk LLP</span>, Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque ducimus et deserunt cumque tempore optio magnam, tempora consequuntur natus facere ipsa ad assumenda blanditiis, repudiandae minima a qui commodi aut porro temporibus ab reiciendis. Deserunt praesentium facere cumque obcaecati dolores a officia rerum consequuntur enim.
+          </p>
 
-        <p>
-          With a core focus on “wet” goods — including beers, wines, spirits, and soft drinks — PHL expertly receives, stores, and distributes a diverse range of commodities. Beyond alcoholic beverages, the company also manages storage and delivery for a wide array of other goods with equal proficiency.
-        </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis esse quos unde quibusdam ducimus, culpa cum repudiandae? Cum ipsum itaque reiciendis sit cupiditate nam repellat, libero odio, ratione voluptate at? Velit odio voluptatem esse exercitationem quas et ducimus optio ea fuga, pariatur, veritatis itaque quia!
+          </p>
 
-        <p>
-          Over the years, PHL has built a strong reputation for <span className="italic font-medium">unparalleled customer service</span> and tailor-made logistics solutions. Clients trust PHL for their adaptability, discretion, and precision.
-        </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum quod similique! Velit, mollitia, est voluptas ab explicabo commodi, omnis deleniti eum voluptates ipsa porro illo molestias dolores soluta.
+          </p>
 
-        {/* --- FIX START --- */}
-        {/* Close the paragraph before the ul */}
-        <p>
-          Our suite of services includes:
-        </p>
-        <ul className="list-disc list-inside mt-2 ml-2 md:ml-6 text-gray-700">
-          <li>UK and Global Distribution</li>
-          <li>Excise Warehousing</li>
-          <li>Escrow Facility Management</li>
-          <li>Flexible, Ad-Hoc Logistics Solutions</li>
-        </ul>
-        {/* --- FIX END --- */}
+          {/* --- FIX START --- */}
+          {/* Close the paragraph before the ul */}
+          <p>
+            Our suite of services includes:
+          </p>
+          <ul className="list-disc list-inside mt-2 ml-2 md:ml-6 text-gray-700">
+            <li>React.js</li>
+            <li>MongoDB</li>
+            <li>Node.js</li>
+            <li>Express.js</li>
+          </ul>
+          {/* --- FIX END --- */}
 
-        <p className="font-medium text-center text-indigo-600 mt-10">
-          At PHL, logistics isn’t just a service — it’s a commitment to excellence.
-        </p>
+          <p className="font-medium text-center text-indigo-600 mt-10">
+            At CT, isn’t just a service — it’s a commitment to excellence.
+          </p>
       </div>
     </div>
   );

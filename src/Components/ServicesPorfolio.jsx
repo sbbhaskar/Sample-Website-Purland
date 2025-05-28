@@ -14,14 +14,14 @@ const ServicesPortfolio = () => {
     {
       title: 'Handling & Storage',
       image: HandingStorage,
-      text: 'We provide expert handling and secure storage solutions for both full and part loads...',
+      text: 'Description here Description here Description here Description here...',
       buttonText: 'know more',
       link: '/services#handling-storage',
     },
     {
       title: 'Distribution',
       image: Distribution,
-      text: 'Our skilled team ensures safe and timely import/export of goods...',
+      text: 'Description here Description here Description here Description here...',
       buttonText: 'know more',
           link: '/services#distribution',
 
@@ -29,7 +29,7 @@ const ServicesPortfolio = () => {
     {
       title: 'Other Services',
       image: OtherServices,
-      text: 'We assist in acquiring mandatory documentation for seamless import and export...',
+      text: 'Description here Description here Description here Description here...',
       buttonText: 'know more',
       link: '/services#other-services',
 
@@ -37,7 +37,7 @@ const ServicesPortfolio = () => {
     {
       title: 'Ambient Storage',
       image: AmbientStorage,
-      text: 'Efficient and budget-friendly supply chain logistics across all sectors...',
+      text: 'Description here Description here Description here Description here...',
       buttonText: 'know more',
       link: '/services#ambient-storage',
 
@@ -45,7 +45,7 @@ const ServicesPortfolio = () => {
     {
       title: 'Customs Declarations',
       image: Customs,
-      text: 'We manage all customs paperwork for compliant global transport...',
+      text: 'Description here Description here Description here Description here...',
       buttonText: 'know more',
       link: '/excise-approval',
 
@@ -54,7 +54,7 @@ const ServicesPortfolio = () => {
       title: 'Explore All Services',
       isVideo: true,
       videoSrc: shipVideo,
-      text: 'Discover our full range of services that your business expects from Purland House...',
+      text: 'Description here Description here Description here Description here...',
       buttonText: 'know more',
       link: '/services',
     },

@@ -4,20 +4,7 @@ import oceanFreightImg from '../assets/oceanfreight.png';
 import multiModalFreightImg from '../assets/multimodalfreight.png';
 
 const FreightCards = () => {
-  // const cards = [
-  //   {
-  //     title: 'Air Freight',
-  //     img: '/src/assets/facilities-distribution.png',
-  //   },
-  //   {
-  //     title: 'Ocean Freight',
-  //     img: '/src/assets/oceanfreight.png',
-  //   },
-  //   {
-  //     title: 'Multi Modal Freight',
-  //     img: '/src/assets/multimodalfreight.png',
-  //   },
-  // ];
+
   const cards = [
   {
     title: 'Air Freight',

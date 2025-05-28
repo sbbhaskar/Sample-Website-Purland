@@ -31,24 +31,23 @@ const Application = () => {
     <div className="max-w-4xl mx-auto mt-20 p-6 bg-white rounded-xl shadow-lg border border-gray-200">
       <form onSubmit={handleSubmit} className="space-y-8">
         <h2 className="text-3xl font-bold text-center text-blue-900 mb-8 underline">
-          PHL Application Form
+          CT Application Form
         </h2>
 
         {[
-          ["Your Company VAT Certificate/ Number / EORI Number", "vat_certificate"],
-          ["The local VAT number of the country being despatched to", "vat_number"],
-          ["The local EORI number of the country being despatched to", "eori_number"],
-          ["Details on how your Company intend to use the bonded facility", "company_use"],
-          ["Details of Directors & business history", "business_history"],
-          ["Director confirmation of their history regarding any involvement in the Alcohol Trade", "alcohol_trade"],
-          ["Please provide the list of current customers", "current_customers"],
-          ["Please provide the list of current suppliers", "current_suppliers"],
-          ["Details of how you undertake due diligence on your customers and suppliers", "diligence"],
-          ["For any of your clients abroad we require the VAT and EORI number", "clients_abroad"],
-          ["Are you looking to Export? If yes which country, which bond and which stock?", "export_country"],
-          ["If your clients are looking to export/move to other bonds in EU (consolidation only)", "consolidation_purposes"],
-          ["PHL will seek clarification for any bonds your customers hold accounts with", "clarification_bonds"],
-          ["Can you confirm there are no compliance issues with HMRC?", "compliance_issues"],
+          ["questions here, questions here, questions here, questions here"],
+          ["questions here, questions here, questions here, questions here"],
+          ["questions here, questions here, questions here, questions here"],
+          ["questions here, questions here, questions here, questions here"],
+          ["questions here, questions here, questions here, questions here"],
+          ["questions here, questions here, questions here, questions here"],
+          ["questions here, questions here, questions here, questions here"],
+          ["questions here, questions here, questions here, questions here"],
+          ["questions here, questions here, questions here, questions here"],
+          ["questions here, questions here, questions here, questions here"],
+          ["questions here, questions here, questions here, questions here"],
+          ["questions here, questions here, questions here, questions here"],
+          ["questions here, questions here, questions here, questions here"],
         ].map(([label, name]) => (
           <div key={name}>
             <label className="block text-lg font-medium text-gray-700 mb-2">
@@ -66,8 +65,7 @@ const Application = () => {
         ))}
 
         <div className="text-sm text-gray-600 italic mt-4">
-          Please note: PHL must get HMRC approval to act as duty representative.
-          Your answers may raise follow-up questions.
+          Please note: CT LLP.
         </div>
 
         <div className="flex justify-center">

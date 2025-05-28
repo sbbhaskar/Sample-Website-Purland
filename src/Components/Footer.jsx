@@ -29,7 +29,7 @@ const Footer = () => {
               <li><Link to="/services" className="hover:underline">Services</Link></li>
               <li>
                 {/* Keep <a> for external files/links that open in new tab */}
-                <a href="/purland.pdf" target="_blank" rel="noopener noreferrer" className="hover:underline">
+                <a href="#" rel="noopener noreferrer" className="hover:underline">
                   Terms and Conditions
                 </a>
               </li>
@@ -44,17 +44,16 @@ const Footer = () => {
               <li className="flex items-start gap-2 justify-center text-center">
                 <MapPin className="w-4 h-4 mt-1" />
                 <span>
-                  Purland House, 50 Purland Road,<br />
-                  London, SE28 0AT
+Address here
                 </span>
               </li>
               <li className="flex items-center gap-2 justify-center">
                 <Phone className="w-4 h-4" />
-                <span>+44(0)2083107999</span>
+                <span> Phone number here</span>
               </li>
               <li className="flex items-center gap-2 justify-center">
                 <Mail className="w-4 h-4" />
-                <span>info@purlandhouse.com</span>
+                <span>info@mydomain.com</span>
               </li>
             </ul>
           </div>
@@ -63,7 +62,7 @@ const Footer = () => {
           <div className="flex flex-col items-center space-y-2 mt-8">
             <h4 className="font-bold mb-2">Social Links</h4>
             <a
-              href="https://linkedin.com"
+              href="www.linkedin.com/in/bhaskarbanerjee-developer"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 hover:underline"
@@ -76,7 +75,7 @@ const Footer = () => {
       </div>
 
       <div className="text-center py-4 bg-[#0B1340] text-white text-sm">
-        © 2025 Purland House. All Rights Reserved.
+        © 2025 Code Trunk. All Rights Reserved.
       </div>
     </footer>
   );

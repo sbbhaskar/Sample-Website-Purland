@@ -3,9 +3,9 @@ import React from 'react'
 const Intro = () => {
   return (
     <div>
-        <h2 className="text-2xl md:text-3xl font-semibold mb-4">Welcome Purland House</h2>
+        <h2 className="text-2xl md:text-3xl font-semibold mb-4">Welcome to Code Trunk</h2>
         <p>
-          Purland House Ltd, established in 2008, is a HMRC excise-approved facility based in SE London...
+          CT, established in 2024, is a Ai-based Website Development Company...
         </p>
     </div>
   )
